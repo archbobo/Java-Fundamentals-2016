@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Binary Calculator</string>
+    <string name="sym_one">1</string>
+    <string name="sym_zero">0</string>
+    <string name="sym_plus">+</string>
+    <string name="sym_equals">=</string>
+    <string name="sym_clear">CLR</string>
+    <string name="help">Help</string>
+</resources>
